@@ -1,19 +1,23 @@
 # 韩江萍 Jiangping Han
+<img src="images/jphan.jpg" alt="" width="180">
 
-女，河南洛阳人，博士，现任中国科学技术大学特任副研究员。2016年毕业于中国科学技术大学电子信息与通信工程系，获得电子信息工程专业学士学位；2021年毕业于中国科学技术大学电子工程与信息科学系，获得信息与通信工程专业博士学位。2019年10月至2021年9月，在国家留学基金委资助下，以访问学者身份赴美国亚利桑那州立大学进行交流访问。主要从事未来网络体系架构和传输优化方面的研究，研究内容包括多路径传输协议优化、数据中心网络中传输协议设计以及新型网络架构等。在IEEE TWC、IEEE ToN、INFOCOM、IWQoS、ICC等权威期刊和国际学术会议发表论文40余篇，授权专利8项，中国科大“墨子杰出青年”、“小米青年学者”获得者，曾获得MSN 2017最佳论文奖，中科大院长奖，受邀担任IEEE Communications Magazine、IEEE TWC、IEEE ToN等多个SCI期刊和IWQoS、Globecom等知名国际学术会议审稿人。
+I am currently an associate researcher at the University of Science and Technology of China (USTC). I received the bachelor's degree and the doctor's degree both from the Department of Electronic Engineering and Information Science (EEIS), USTC, in 2016 and 2021, respectively. From Nov. 2019 to Oct. 2021, I was a visiting scholar with the School of Computing, Informatics, and Decision Systems Engineering, Arizona State University. I were a Post-Doctoral researcher with the School of Cyber Science and Technology, USTC, in 2021-2023.
+
  
 Email: jphan AT ustc.edu.cn  
 [Google Scholar](https://scholar.google.com/citations?user=vaUdFwgAAAAJ&hl=zh-CN) 
 
+[中文主页](https://faculty.ustc.edu.cn/jphan/zh_CN/index.htm) 
+
 ---
 
-## 🔍 研究方向
+## 🔍 Research Interests
 
-（1）未来网络架构
+（1）Datacenter
 
-（2）算力网络
+（2）Network protocol
 
-（3）互联网传输 
+（3）Future Internet 
 
 ---
 
